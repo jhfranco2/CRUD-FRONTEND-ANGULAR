@@ -1,7 +1,7 @@
 export class Employee {
     id!:number;
-    firstname!:string;
-    lastname!:string;
-    emailId!:string;
-
+    nombre!:string;
+    apellido!:string;
+    dni!:string;
+    empleado!:boolean;
 }
